@@ -2,7 +2,7 @@
 #include <WiFi.h>
 
 // Define joystick pins
-const int joyPinX = 1;  // Analog pin for X-axis
+const int joyPinX = 3;  // Analog pin for X-axis
 const int joyPinY = 2;  // (Optional) Analog pin for Y-axis if you want to use it
 
 // Peer device MAC address (receiver's MAC)
